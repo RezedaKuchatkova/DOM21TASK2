@@ -1,0 +1,16 @@
+
+h1 {
+    font-size: 2rem;
+    color: rgb(239, 36, 206);
+    font-weight: 900;
+}
+
+#wrapper {
+    text-align: center;
+    width: 35vw;
+    height: 20vh;
+    padding: 1rem;
+    border: 1px solid rgb(233, 8, 207);
+    font-size: 2rem;
+    color: rgb(186, 23, 231);
+}
